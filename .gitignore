@@ -1,0 +1,19 @@
+# WordPress Core
+wp-config.sample.php
+wp-config.php
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Node.js (if used for assets)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
